@@ -1,11 +1,9 @@
 ### Hola 👋, Mi nombre es Rodrigo
 
+(![impresion3D]https://gph.is/g/E1QwXPx)
 
-Habilidades: Impresiones 3D
-
-- 🔭 Estoy trabajando en this page. 
 - 🌱 Estoy aprendiendo React y Vue 
-- 😄 Pronombres: romaditro 
+-  ⚽Colo-Colo
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/romaditro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/romaditro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/romaditro3d/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/romaditro)  
