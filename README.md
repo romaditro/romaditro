@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Rodrigo
 
-(![impresion3D]https://gph.is/g/E1QwXPx)
+<img align='right' src='https://gph.is/g/E1QwXPx' width='200'>
 
 - 🌱 Estoy aprendiendo React y Vue 
 -  ⚽Colo-Colo
