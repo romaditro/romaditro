@@ -7,8 +7,7 @@
 - 🖨  Pituteo haciendo impresiones 3D.
 - ⚽ Colo-Colo.
 
-
-[<img src='hhttps://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif' alt='linkedin' height='40'>](https://www.linkedin.com/in/romaditro/)  [<img src='https://media.giphy.com/media/l41YmiCZ8HXvVl5M4/giphy.gif' alt='instagram' height='40'>](https://www.instagram.com/romaditro3d/)  [<img src='https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif' alt='twitter' height='40'>](https://twitter.com/romaditro)  
+([<img src='hhttps://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif' alt='linkedin' height='40'>](https://www.linkedin.com/in/romaditro/)  [<img src='https://media.giphy.com/media/l41YmiCZ8HXvVl5M4/giphy.gif' alt='instagram' height='40'>](https://www.instagram.com/romaditro3d/)  [<img src='https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif' alt='twitter' height='40'>](https://twitter.com/romaditro)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=romaditro&show_icons=true)  
 
