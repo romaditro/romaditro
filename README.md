@@ -1,6 +1,6 @@
 ### Hola 😸, Mi nombre es Rodrigo
 
-- 🔧 Habilidades: C, PHP, ASP Clásico, C#.NET/.NET Core, HTML, JavaScript, CSS, SASS, SQL
+- 🔧 Habilidades: C, PHP, ASP Clásico, C#.NET/.NET Core, HTML 5, JavaScript > ES6, CSS3, SASS, SQL
 - 🌱 Estoy aprendiendo React, Vue y Python en estos momentos.
 - 🖨  Pituteo haciendo impresiones 3D.
 - 🦾 Deportes: futbol, trotar, bicicleta, halterofilia, trekking.
