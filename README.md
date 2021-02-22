@@ -3,6 +3,7 @@
 - 🔧 Habilidades: C, PHP, ASP Clásico, C#.NET/.NET Core, HTML, JavaScript, CSS, SASS, SQL
 - 🌱 Estoy aprendiendo React, Vue y Python en estos momentos.
 - 🖨  Pituteo haciendo impresiones 3D.
+- 🦾 Deportes: futbol, trotar, bicicleta, halterofilia, trekking.
 - ⚽ Colo-Colo.
 - 🎧 Pearl Jam, Sepultura, Opeth, Nirvana, Iron Maiden, Ozzy, etc...
 
